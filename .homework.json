@@ -1,0 +1,14 @@
+{
+    "name": "jquery-todo",
+    "version": "0.0.1",
+    "title": "jQuery to-do",
+    "description": "Create a to-do list in jQuery",
+    "difficultyModes": [
+        "Normal"
+    ],
+    "keywords": [
+        "JavaScript",
+        "jQuery",
+        "todo"
+    ]
+}
